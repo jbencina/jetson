@@ -1,4 +1,4 @@
-# Jetson Repo
+# Jetson Docs
 Collection of personal scripts and learnings for working with the Jetson Nano
 
 ## Docs
